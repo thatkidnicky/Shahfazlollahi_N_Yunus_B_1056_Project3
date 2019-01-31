@@ -1,0 +1,141 @@
+@charset "utf-8";
+/*CSS document*/
+
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 1600px;
+}
+
+#logo
+{
+	height: 180px;
+	width: 200px;
+	background-color: #ff0000;
+	margin-left: 25px;
+	margin-top: 30px
+}
+
+#nav
+{
+	height: 80px;
+	width: 1600px;
+	background-color: #f26522;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#banner
+{
+	height: 580px;
+	width: 1513px;
+	background-color: #00ff00;
+	margin: 0 auto;
+}
+
+#merchContainer
+{
+	display: flex;
+	flex-direction: row;
+	height: 350px;
+	width: 1600px;
+}
+
+#merch1
+{
+	height: 277px;
+	width: 324px;
+	background-color: #ffff00;
+	margin: 70px 100px 0px 100px;
+}
+
+#merch2
+{
+	height: 277px;
+	width: 324px;
+	background-color: #ffff00;
+	margin: 70px 100px 0px 100px;
+}
+
+#merch3
+{
+	height: 277px;
+	width: 324px;
+	background-color: #ffff00;
+	margin: 70px 100px 0px 100px
+}
+
+#buttonContainer
+{
+	display: flex;
+	flex-direction: row;
+	height: 180px;
+	width: 1600px;
+}
+
+#button1
+{
+	height: 44px;
+	width: 144px;
+	background-color: #ec008c;
+	margin: 25px 120px 0px 180px
+}
+
+#button2
+{
+	height: 44px;
+	width: 144px;
+	background-color: #ec008c;
+	margin: 25px 120px 0px 260px
+	
+}
+
+#button3
+{
+	height: 44px;
+	width: 144px;
+	background-color: #ec008c;
+	margin: 25px 120px 0px 260px
+}
+
+#paragraph
+{
+	height: 274px;
+	width: 1330px;
+	background-color: #00a651;
+	margin: 0 auto;
+}
+
+
+#imageContainer
+{
+	display: flex;
+	flex-direction: row;
+}
+
+#image1
+{
+	margin: 0 auto;
+	height: 420px;
+	width: 560px;
+	background-color: #7accc8;
+	margin: 25px 10px 30px 200px
+}
+
+#image2
+{
+	margin: 0 auto;
+	height: 420px;
+	width: 560px;
+	background-color: #7accc8;
+	margin: 25px 200px 30px 70px
+}
+
+
+
+
+
